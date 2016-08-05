@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(87%,rgba(175,116,117,0.13)), color-stop(100%,rgba(255,255,255,0)));
+	color: #000000;
+}
+
+
+
+#menu {
+	background-color: #309;
+
+}
+
+#menu1
+{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(53%,#0000CC), color-stop(76%,#309), color-stop(87%,#309), color-stop(99%,#309), color-stop(100%,#309)); 
+}
+
+#menu2
+{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f0b7a1), color-stop(47%,#8c3310), color-stop(100%,#601800), color-stop(100%,#bf6e4e));
+}
+
+#bor
+{  
+	border-style:solid;
+	border-color:#309;
+	border-width:thin;
+}
+
+#topbor
+{
+	border-top-style:solid;
+	border-width:thin;
+	text-align:center
+}
+
+#bord
+{
+border-bottom-style:solid;
+border-width::thin;
+border-color:#309;
+}
+
+#tab
+{
+	background-color:#FFF;
+	border-style:solid;
+	border-color:#309;
+	border-width:thin;
+}
